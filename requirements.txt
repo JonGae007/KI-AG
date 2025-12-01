@@ -1,0 +1,6 @@
+langchain
+langchain_ollama
+langchain_qdrant
+pdfminer.six
+ipykernel
+bs4
